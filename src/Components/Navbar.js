@@ -10,17 +10,23 @@ function Navbar() {
 
 
 <div className='nav-bar-link-Container'>
-    <a href="#">Home</a>
-    <a href="#">About</a>
 
 
 
-    <a href="#">Testimonial</a>
-    <a href="#">Contact</a>
 
-<a href="#"> <BsCart2 className="navbar-cart-icon" /></a>
+    <a href="/">Home</a>
+    <a href="/">About</a>
+
+
+
+    <a href="/">Testimonial</a>
+    <a href="/">Contact</a>
+    
+
+    
 
 <button className="primary-button">Bookings Now</button>
+
 </div>
 </nav>
 
